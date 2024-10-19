@@ -7,7 +7,7 @@ export default function HeroSection() {
     <div className="flex flex-col items-center justify-center min-h-screen p-4 lg:flex-row lg:gap-6">
       <div className="text-center lg:text-left mb-4 lg:mb-0 lg:mt-0">
         {/*Main content that represnet website */}
-        <h1 className=" text-5xl lg:text-7xl font-bold bg-gradient-to-r from-red-700 to-green-600 bg-clip-text text-transparent
+        <h1 className=" text-5xl lg:text-7xl font-bold bg-gradient-to-r from-red-700 to-green-700 bg-clip-text text-transparent
        mt-16 mb-5">
           Now Available
         </h1>

@@ -3,7 +3,7 @@
 export default function FeaturesSection() {
   return (
 
-    <div className="flex flex-col min-h-screen mt-10 p-2">
+    <div className="flex flex-col min-h-screen mt-10">
       {/*  main heading of the page */}
       <h1
         className="text-6xl font-bold bg-gradient-to-r from-amber-500 to-pink-600 bg-clip-text text-transparent
@@ -12,13 +12,13 @@ export default function FeaturesSection() {
       </h1>
       {/* Detail of the new iphone features */}
       <div className="flex  items-center justify-center p-2 mt-10">
-        <div className="flex flex-col bg-gradient-to-r from-black to-slate-500 w-full md:w-1/2  text-center justify-center md:p-8">
+        <div className=" bg-gradient-to-r from-black to-slate-500 w-full max-w-4xl p-4 sm:p-6  text-center justify-center md:p-8">
           <h1 className="text-3xl mt-5 font-bold text-teal-500">
            {/* sub heading  */}
             Introducing Latest Features
           </h1>
           {/* content  */}
-          <p className=" text-xl mt-10 text-white ">
+          <p className=" text-xl mt-10 text-white p-2 ">
             The iPhone 16 series, released in 2024, includes models 
             iPhone 16, 16 Pro, and 16 Pro Max. It features the powerful new A18
             chip, which enhances AI capabilities and overall performance. The

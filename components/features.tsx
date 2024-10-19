@@ -19,7 +19,7 @@
             Introducing Latest Features
           </h1>
            {/* content  */}
-          <p className=" text-xl mt-10 text-white ">
+          <p className=" text-xl mt-10 text-white">
             The iPhone 16 series, released in 2024, includes models 
             iPhone 16, 16 Pro, and 16 Pro Max. It features the powerful new A18
             chip, which enhances AI capabilities and overall performance. The

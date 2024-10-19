@@ -10,7 +10,7 @@ export default function CardSection() {
         new series
       </h1>
       {/* Creating cards to display Iphone */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 p-8 md:p-4 w-full mt-5 max-w-4xl">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 p-8 md:p-4 w-full  max-w-4xl">
         {/*  Card 1 for iphone 16 */}
         <div className="mt-4 ">
           {/* Content for iphone 16 */}
